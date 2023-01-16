@@ -1,0 +1,37 @@
+﻿<Window x:Class="wpf_server.MainWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d"
+        Title="MainWindow" Height="650" Width="1250" MinHeight="650" MinWidth="1250"
+        Foreground="#35150a"
+        FontWeight="DemiBold"
+        FontSize="13"
+        Background="Bisque" Loaded="Window_Loaded">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Margin="10" Grid.Row="0">
+            <StackPanel Orientation="Horizontal">
+                <Image Stretch="Fill" HorizontalAlignment="Left" Width="126" Height="126" Source="https://cdn.discordapp.com/attachments/1062023055045570564/1062028769856077845/fe3586709eddc48c.png" />
+                <TextBlock Margin="15" FontSize="25" VerticalAlignment="Center">СКФЭТ - RemoteDesktop</TextBlock>
+            </StackPanel>
+            <Border Margin="0 15 0 0" BorderBrush="#35150a" BorderThickness="0 0 0 1"/>
+            </StackPanel>
+
+            <ScrollViewer Grid.Row="1" HorizontalContentAlignment="Center" VerticalScrollBarVisibility="Auto">
+                <WrapPanel>
+
+                    <Border Width="180" Height="160" Margin="10" BorderBrush="Black" BorderThickness="2" CornerRadius="1" MouseLeftButtonDown="Border_MouseLeftButtonDown">
+                        <Grid>
+                            <Image Source="https://i.ytimg.com/vi/11cPYYERfVs/maxresdefault.jpg" Stretch="Fill" />
+                            <Border Height="25" Background="#35150a" VerticalAlignment="Bottom" Opacity=".7" />
+                            <Label VerticalAlignment="Bottom" HorizontalAlignment="Left" Foreground="White" Content="PC-1"/>
+                        </Grid>
+                    </Border>
+
+                </WrapPanel>
+            </ScrollViewer>
+        <Button Grid.Row="0" VerticalAlignment="Top" HorizontalAlignment="Right" Height="30" Width="30"   x:Name="CloseButton" Click="CloseButton_Click_1" Content="X"/>
+    </Grid>
+</Window>

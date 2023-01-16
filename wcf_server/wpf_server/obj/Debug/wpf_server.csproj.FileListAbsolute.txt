@@ -1,0 +1,15 @@
+C:\Users\noFact\Desktop\wcf_troyan-main\wcf_troyan-main\wpf_server\obj\Debug\wpf_server.csproj.AssemblyReference.cache
+C:\Users\noFact\Desktop\wcf_troyan-main\wcf_troyan-main\wpf_server\obj\Debug\wpf_server.csproj.SuggestedBindingRedirects.cache
+C:\Users\noFact\Desktop\wcf_troyan-main\wcf_troyan-main\wpf_server\obj\Debug\MainWindow.baml
+C:\Users\noFact\Desktop\wcf_troyan-main\wcf_troyan-main\wpf_server\obj\Debug\MainWindow.g.cs
+C:\Users\noFact\Desktop\wcf_troyan-main\wcf_troyan-main\wpf_server\obj\Debug\App.g.cs
+C:\Users\noFact\Desktop\wcf_troyan-main\wcf_troyan-main\wpf_server\obj\Debug\wpf_server_MarkupCompile.cache
+C:\Users\noFact\Desktop\wcf_troyan-main\wcf_troyan-main\wpf_server\obj\Debug\wpf_server.g.resources
+C:\Users\noFact\Desktop\wcf_troyan-main\wcf_troyan-main\wpf_server\obj\Debug\wpf_server.Properties.Resources.resources
+C:\Users\noFact\Desktop\wcf_troyan-main\wcf_troyan-main\wpf_server\obj\Debug\wpf_server.csproj.GenerateResource.cache
+C:\Users\noFact\Desktop\wcf_troyan-main\wcf_troyan-main\wpf_server\obj\Debug\wpf_server.csproj.CoreCompileInputs.cache
+C:\Users\noFact\Desktop\wcf_troyan-main\wcf_troyan-main\wpf_server\bin\Debug\wpf_server.exe.config
+C:\Users\noFact\Desktop\wcf_troyan-main\wcf_troyan-main\wpf_server\bin\Debug\wpf_server.exe
+C:\Users\noFact\Desktop\wcf_troyan-main\wcf_troyan-main\wpf_server\bin\Debug\wpf_server.pdb
+C:\Users\noFact\Desktop\wcf_troyan-main\wcf_troyan-main\wpf_server\obj\Debug\wpf_server.exe
+C:\Users\noFact\Desktop\wcf_troyan-main\wcf_troyan-main\wpf_server\obj\Debug\wpf_server.pdb
